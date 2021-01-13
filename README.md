@@ -9,3 +9,7 @@
 LSTM predict:
  <br>
 ![](./result_photo/LSTM_predict.PNG)
+
+ARIMA(one head/roll) predict:
+<br>
+![](./result_photo/ARIMA_onehead.PNG)
